@@ -1,8 +1,8 @@
-Android test game 2 screenshot: Igel Rush
+Igel Rush screenshot:
 
 ![Screenshot](Igel_Rush_1.png)
 
-<b>Android test game 1 screenshot: Block Game
+Block Game screenshot:
 
 ![Screenshot](Block_Game_01.png)
 
