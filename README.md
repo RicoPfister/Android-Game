@@ -1,6 +1,7 @@
 Igel Rush screenshot:
 
 ![Screenshot](Igel_Rush_1.png)
+![Screenshot](Igel_Rush_1_2.png)
 
 Block Game screenshot:
 
