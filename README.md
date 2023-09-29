@@ -1,3 +1,7 @@
+Android Test Game 2. Igel Rush:
+![Screenshot](Igel_Rush_1.png)
+
+Android Test Game 1. Block Game:
 ![Screenshot](Block_Game_01.png)
 
 Many thanks to this YouTuber who helped me making my first Android APK:
